@@ -18,7 +18,21 @@ const skills = [
     title: "Adriel",
     description:
       "Multitalenta dan berjasa buat tim.",
-    label: "Midlane",
+    label: "Midlaner",
+  },
+    {
+    number: "04",
+    title: "Lucky",
+    description:
+      "kembangkan bakatmu dan sering rotasi.",
+    label: "Roamer",
+  },
+      {
+    number: "05",
+    title: "Ago",
+    description:
+      "Lebih jago daripada saya.",
+    label: "Jungler",
   },
   
 ];
