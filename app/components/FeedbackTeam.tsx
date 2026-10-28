@@ -36,10 +36,10 @@ const skills = [
   }, 
         {
     number: "06",
-    title: "Raja",
+    title: "Almas",
     description:
       "Hebat kamu main Esmeraldanya",
-    label: "Jungler",
+    label: "Goldlaner/Midlaner",
   }, 
 ];
 
