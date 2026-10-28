@@ -1,25 +1,26 @@
 const skills = [
   {
     number: "01",
-    title: "Frontend development",
+    title: "Zidan",
     description:
-      "Membangun antarmuka website yang responsif menggunakan teknologi web modern.",
-    label: "HTML · CSS · JavaScript",
+      "Jo sangat jago dalam pertandingan 1 lawan 1.",
+    label: "Goldlaner",
   },
   {
     number: "02",
-    title: "UI implementation",
+    title: "Faldi",
     description:
-      "Menerjemahkan desain menjadi tampilan yang konsisten dan mudah digunakan.",
-    label: "React · Next.js · Tailwind CSS",
+      "EXP laner yang berbakat.",
+    label: "Jungler",
   },
   {
     number: "03",
-    title: "Problem solving",
+    title: "Adriel",
     description:
-      "Memecah kebutuhan menjadi solusi yang jelas, terukur, dan mudah dirawat.",
-    label: "Debugging · Aksesibilitas · Kolaborasi",
+      "Multitalenta dan berjasa buat tim.",
+    label: "Midlane",
   },
+  
 ];
 
 export default function SkillsSection() {
@@ -34,10 +35,10 @@ export default function SkillsSection() {
         </p>
         <div className="mb-12 flex items-end justify-between gap-8 max-[640px]:mb-8 max-[640px]:flex-col max-[640px]:items-start">
           <h2 className="m-0 max-w-[500px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
-            Hal yang saya kerjakan.
+            Feedback teman mabar.
           </h2>
           <p className="mb-1 max-w-[330px] text-sm leading-[1.8] text-[#66716a]">
-            Fokus saya adalah membuat pengalaman web yang berfungsi baik dan terasa intuitif.
+            Fokus saya adalah menjadi explaner yang berdampak bagi tim.
           </p>
         </div>
         <div className="grid grid-cols-3 gap-5 max-[760px]:grid-cols-1">

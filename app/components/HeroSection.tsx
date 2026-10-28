@@ -7,16 +7,15 @@ export default function HeroSection() {
       <div className="relative z-10">
         <p className="mb-6 flex items-center gap-3 text-[10px] font-bold uppercase tracking-[1.5px] text-[#71864a]">
           <span className="size-2 rounded-full bg-[#82975b]" />
-          Web developer · Indonesia
+            Exp Lanner · Indonesia
         </p>
         <h1 className="mb-6 max-w-[650px] font-manrope text-[clamp(54px,7vw,88px)] font-semibold leading-[.98] tracking-[-5px] text-[#263b30] max-[640px]:text-[clamp(52px,15vw,72px)] max-[640px]:tracking-[-3px]">
           Halo, saya <span className="text-[#82975b]">Dani.</span>
           <br />
-          Saya membangun web yang bermakna.
+          Saya user x-borg dan esmeralda.
         </h1>
         <p className="mb-8 max-w-[490px] text-sm leading-[1.9] text-[#66716a]">
-          Saya merancang dan mengembangkan pengalaman digital yang sederhana,
-          responsif, dan nyaman digunakan.
+          Saya exp pemberani dan tidak takut mati.
         </p>
         <div className="flex flex-wrap items-center gap-5">
           <a

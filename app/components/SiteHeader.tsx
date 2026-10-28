@@ -12,7 +12,7 @@ export default function SiteHeader() {
 Dani
         </span>
                 <span className="text-black">
-John
+Mabar
         </span>
 
       </a>
