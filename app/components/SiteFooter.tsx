@@ -7,8 +7,8 @@ export default function SiteFooter() {
           href="#beranda"
           aria-label="Dani John, kembali ke atas"
         >
-          <span className="text-[#d77668]">Dani</span>{" "}
-          <span className="text-white">John</span>
+          <span className="text-green-200">Dani</span>{" "}
+          <span className="text-white">Mabar</span>
         </a>
         <p className="m-0 text-[10px] text-white/65">
           © 2026 Dani John. Portofolio pribadi.
