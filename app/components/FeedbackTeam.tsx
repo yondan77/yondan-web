@@ -33,8 +33,14 @@ const skills = [
     description:
       "Lebih jago daripada saya.",
     label: "Jungler",
-  },
-  
+  }, 
+        {
+    number: "06",
+    title: "Raja",
+    description:
+      "Hebat kamu main Esmeraldanya",
+    label: "Jungler",
+  }, 
 ];
 
 export default function FeedbackTeam() {
