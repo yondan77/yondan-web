@@ -10,7 +10,9 @@ import FeedbackTeam from "../components/FeedbackTeam";
 export default function Home() {
   return (
     <main>
-<HeroSection/>
+      <SiteHeader />
+      <AboutSection />
+      <SiteFooter />
     </main>
   );
 }

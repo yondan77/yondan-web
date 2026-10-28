@@ -12,7 +12,7 @@ export default function HeroSection() {
         <h1 className="mb-6 max-w-[650px] font-manrope text-[clamp(54px,7vw,88px)] font-semibold leading-[.98] tracking-[-5px] text-[#263b30] max-[640px]:text-[clamp(52px,15vw,72px)] max-[640px]:tracking-[-3px]">
           Halo, saya <span className="text-[#82975b]">Dani.</span>
           <br />
-          Saya user x-borg dan esmeralda.
+          Saya user x-borg dan Esmeralda.
         </h1>
         <p className="mb-8 max-w-[490px] text-sm leading-[1.9] text-[#66716a]">
           Saya exp pemberani dan tidak takut mati.
@@ -20,19 +20,22 @@ export default function HeroSection() {
         <div className="flex flex-wrap items-center gap-5">
           <a
             className="inline-flex min-h-[50px] items-center justify-center bg-[#263b30] px-6 text-xs font-bold text-white transition-colors hover:bg-[#3b5646] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#82975b] focus-visible:ring-offset-2"
-            href="#karya"
+            href="/feedback-team"
           >
-            Lihat proyek <span aria-hidden="true" className="ml-4">↓</span>
+            Feedback Team <span aria-hidden="true" className="ml-4">↓</span>
           </a>
           <a
             className="text-xs font-bold text-[#263b30] underline decoration-[#82975b] underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#82975b]"
-            href="#kontak"
+            href=""
           >
-            Hubungi saya
+             
           </a>
         </div>
       </div>
-      <div
+      <div>
+
+        </div>
+      {/* <div
         className="relative mx-auto grid aspect-square w-full max-w-[390px] place-items-center overflow-hidden rounded-[48%_48%_4px_4px] bg-[#dfe7d2] max-[640px]:max-w-[330px]"
         aria-label="Ilustrasi abstrak portofolio Dani"
         role="img"
@@ -52,10 +55,7 @@ export default function HeroSection() {
         <span className="absolute right-[17%] top-[20%] text-3xl text-[#71864a]" aria-hidden="true">
           ✳
         </span>
-      </div>
-      <p className="absolute bottom-7 right-[7.1%] m-0 text-[10px] font-medium uppercase tracking-[1px] text-[#879188] max-[900px]:right-[5%] max-[640px]:hidden">
-        Portofolio pribadi · 2026
-      </p>
+      </div> */}
     </section>
   );
 }

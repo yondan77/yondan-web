@@ -6,9 +6,6 @@ export default function ContactSection() {
     >
       <div className="mx-auto flex max-w-6xl items-end justify-between gap-10 max-[640px]:flex-col max-[640px]:items-start">
         <div>
-          <p className="mb-5 text-[10px] font-bold uppercase tracking-[1.5px] text-[#71864a]">
-            04 / Kontak
-          </p>
           <h2 className="m-0 max-w-[620px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
             Mari bangun sesuatu yang bermanfaat.
           </h2>

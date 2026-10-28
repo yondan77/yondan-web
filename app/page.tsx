@@ -12,11 +12,6 @@ export default function Home() {
     <main>
       <SiteHeader />
       <HeroSection />
-      <AboutSection />
-      {/*<SkillsSection />*/}
-      <FeedbackTeam />
-      <WorkSection />
-      <ContactSection />
       <SiteFooter />
     </main>
   );
