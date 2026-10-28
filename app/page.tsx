@@ -5,6 +5,7 @@ import SkillsSection from "./components/SkillsSection";
 import WorkSection from "./components/WorkSection";
 import ContactSection from "./components/ContactSection";
 import SiteFooter from "./components/SiteFooter";
+import FeedbackTeam from "./components/FeedbackTeam";
 
 export default function Home() {
   return (
@@ -12,7 +13,8 @@ export default function Home() {
       <SiteHeader />
       <HeroSection />
       <AboutSection />
-      <SkillsSection />
+      {/*<SkillsSection />*/}
+      <FeedbackTeam />
       <WorkSection />
       <ContactSection />
       <SiteFooter />
