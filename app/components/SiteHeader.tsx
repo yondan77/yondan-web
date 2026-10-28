@@ -3,9 +3,9 @@ import Dropdown from "./dropdown/Dropdown";
 
 export default function SiteHeader() {
   return (
-    <header className="bg-green-950 flex h-[84px] items-center justify-between border-b border-ink/10 px-[7.1%] max-[900px]:px-[5%]">
+    <header className="bg-green-950 flex h-21 items-center justify-between border-b border-ink/10 px-[7.1%] max-[900px]:px-[5%]">
       <a
-        className="inline-flex items-center gap-[10px] font-manrope text-[19px] font-extrabold tracking-[-1.2px]"
+        className="inline-flex items-center gap-2.5 font-manrope text-[19px] font-extrabold tracking-[-1.2px]"
         href="/"
         aria-label="Dani John, beranda"
       >

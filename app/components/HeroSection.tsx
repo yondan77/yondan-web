@@ -2,7 +2,7 @@ export default function HeroSection() {
   return (
     <section
       id="beranda"
-      className="relative grid min-h-155 grid-cols-[1.1fr_.9fr] items-center gap-12 overflow-hidden bg-[#f5f6ef] px-[7.1%] py-20 max-[900px]:min-h-[560px] max-[900px]:gap-8 max-[900px]:px-[5%] max-[640px]:grid-cols-1 max-[640px]:gap-10 max-[640px]:py-14"
+      className="relative grid min-h-155 grid-cols-[1.1fr_.9fr] items-center gap-12 overflow-hidden bg-[#f5f6ef] px-[7.1%] py-20 max-[900px]:min-h-140 max-[900px]:gap-8 max-[900px]:px-[5%] max-[640px]:grid-cols-1 max-[640px]:gap-10 max-[640px]:py-14"
     >
       <div className="relative z-10">
         <p className="mb-6 flex items-center gap-3 text-[10px] font-bold uppercase tracking-[1.5px] text-[#71864a]">

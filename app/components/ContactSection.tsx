@@ -6,10 +6,10 @@ export default function ContactSection() {
     >
       <div className="mx-auto flex max-w-6xl items-end justify-between gap-10 max-[640px]:flex-col max-[640px]:items-start">
         <div>
-          <h2 className="m-0 max-w-[620px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
+          <h2 className="m-0 max-w-155 font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
             Mari bangun sesuatu yang bermanfaat.
           </h2>
-          <p className="mb-0 mt-5 max-w-[470px] text-sm leading-[1.8] text-[#66716a]">
+          <p className="mb-0 mt-5 max-w-117.5 text-sm leading-[1.8] text-[#66716a]">
             Terbuka untuk kolaborasi, proyek freelance, dan kesempatan baru.
           </p>
         </div>

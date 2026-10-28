@@ -33,10 +33,10 @@ export default function SkillsSection() {
           02 / Keahlian
         </p>
         <div className="mb-12 flex items-end justify-between gap-8 max-[640px]:mb-8 max-[640px]:flex-col max-[640px]:items-start">
-          <h2 className="m-0 max-w-[500px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
+          <h2 className="m-0 max-w-125 font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
             Hal yang saya kerjakan.
           </h2>
-          <p className="mb-1 max-w-[330px] text-sm leading-[1.8] text-[#66716a]">
+          <p className="mb-1 max-w-82.5 text-sm leading-[1.8] text-[#66716a]">
             Fokus saya adalah membuat pengalaman web yang berfungsi baik dan terasa intuitif.
           </p>
         </div>
@@ -52,7 +52,7 @@ export default function SkillsSection() {
               <h3 className="mb-3 mt-10 font-manrope text-xl font-bold text-[#263b30] max-[640px]:mt-7">
                 {skill.title}
               </h3>
-              <p className="mb-7 min-h-[72px] text-sm leading-[1.8] text-[#66716a]">
+              <p className="mb-7 min-h-18 text-sm leading-[1.8] text-[#66716a]">
                 {skill.description}
               </p>
               <p className="m-0 border-t border-[#263b30]/15 pt-4 text-[10px] font-semibold uppercase tracking-[.5px] text-[#71864a]">

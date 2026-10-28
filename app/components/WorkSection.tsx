@@ -30,10 +30,10 @@ export default function WorkSection() {
           03 / Proyek pilihan
         </p>
         <div className="mb-12 flex items-end justify-between gap-8 max-[640px]:mb-8 max-[640px]:flex-col max-[640px]:items-start">
-          <h2 className="m-0 max-w-[500px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
+          <h2 className="m-0 max-w-125 font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
             Beberapa hal yang bisa saya bangun.
           </h2>
-          <p className="mb-1 max-w-[330px] text-sm leading-[1.8] text-[#66716a]">
+          <p className="mb-1 max-w-82.5 text-sm leading-[1.8] text-[#66716a]">
             Contoh area proyek. Ganti dengan proyek nyata, detail, dan tautannya.
           </p>
         </div>
@@ -51,7 +51,7 @@ export default function WorkSection() {
               <p className="mb-2 mt-5 text-[10px] font-bold uppercase tracking-[1px] text-[#71864a]">
                 {project.category}
               </p>
-              <h3 className="m-0 max-w-[330px] font-manrope text-lg font-bold leading-[1.4] text-[#263b30]">
+              <h3 className="m-0 max-w-82.5 font-manrope text-lg font-bold leading-[1.4] text-[#263b30]">
                 {project.title}
               </h3>
             </article>

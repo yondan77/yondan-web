@@ -9,11 +9,11 @@ export default function AboutSection() {
           01 / Tentang saya
         </p>
         <div className="grid grid-cols-[.9fr_1.1fr] gap-16 max-[760px]:grid-cols-1 max-[760px]:gap-9">
-          <h2 className="m-0 max-w-[440px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
+          <h2 className="m-0 max-w-110 font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
             Saya suka mengubah ide menjadi pengalaman digital.
           </h2>
           <div>
-            <p className="mb-9 max-w-[590px] text-[15px] leading-[1.9] text-[#66716a]">
+            <p className="mb-9 max-w-147.5 text-[15px] leading-[1.9] text-[#66716a]">
               Saya adalah web developer yang menikmati proses membangun
               antarmuka dari awal: memahami kebutuhan, menyusun tampilan, lalu
               menerjemahkannya menjadi website yang cepat dan mudah digunakan.
