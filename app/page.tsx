@@ -6,11 +6,12 @@ import WorkSection from "./components/WorkSection";
 import ContactSection from "./components/ContactSection";
 import SiteFooter from "./components/SiteFooter";
 import FeedbackTeam from "./components/FeedbackTeam";
+import Navbar from "./components/navbar/Navbar";
 
 export default function Home() {
   return (
     <main>
-      <SiteHeader />
+      <Navbar />
       <HeroSection />
       <SiteFooter />
     </main>

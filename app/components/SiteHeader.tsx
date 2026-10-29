@@ -26,7 +26,8 @@ Mabar
         <a className="text-xs font-semibold text-green-200 transition-colors hover:text-white" href="#keahlian">Keahlian</a>
         <a className="text-xs font-semibold text-green-200 transition-colors hover:text-white" href="#karya">Proyek</a>
         <a className="text-xs font-semibold text-green-200 transition-colors hover:text-white" href="#kontak">Kontak</a>
-      </nav> */}
+      </nav> 
+      <Dropdown/> */}
       <Dropdown/>
     </header>
   );
